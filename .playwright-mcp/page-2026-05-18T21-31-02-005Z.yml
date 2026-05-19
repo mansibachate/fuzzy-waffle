@@ -1,0 +1,252 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages Direct messaging - 4 new notifications link" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - generic [ref=e55]:
+            - img "Messages" [ref=e57]
+            - generic "Direct messaging - 4 new notifications link" [ref=e60]:
+              - generic [ref=e62]: "4"
+        - link "Search" [ref=e66] [cursor=pointer]:
+          - /url: "#"
+          - img "Search" [ref=e71]
+        - link "Explore" [ref=e77] [cursor=pointer]:
+          - /url: /explore/
+          - img "Explore" [ref=e82]
+        - link "Notifications" [ref=e90] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e95]
+        - link "New post" [ref=e103] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e108]
+        - link "Professional dashboard" [ref=e113] [cursor=pointer]:
+          - /url: "#"
+          - img "Professional dashboard" [ref=e118]
+        - link "mansibachate's profile picture" [ref=e125] [cursor=pointer]:
+          - /url: /mansibachate/
+          - link "mansibachate's profile picture" [ref=e131]:
+            - img "mansibachate's profile picture" [ref=e132]
+      - generic [ref=e133]:
+        - link "Settings" [ref=e136] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e141]
+        - link "Also from Meta" [ref=e144] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e149]
+    - generic [ref=e152]:
+      - main [ref=e153]:
+        - generic [ref=e155]:
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - generic [ref=e161]:
+                - button "Note..." [ref=e162] [cursor=pointer]:
+                  - generic [ref=e168]: Note...
+                - button "Change profile photo" [ref=e174] [cursor=pointer]:
+                  - img "Change profile photo" [ref=e175]
+              - generic [ref=e176]:
+                - generic [ref=e177]:
+                  - generic [ref=e178]:
+                    - link "mansibachate" [ref=e180] [cursor=pointer]:
+                      - /url: "#"
+                      - heading "mansibachate" [level=2] [ref=e181]:
+                        - generic [ref=e182]: mansibachate
+                    - button "Options" [ref=e183] [cursor=pointer]:
+                      - img "Options" [ref=e185]
+                  - generic [ref=e188]:
+                    - generic [ref=e189]: Mansi ♡
+                    - generic [ref=e190]: she/her
+                  - generic [ref=e191]:
+                    - generic [ref=e193]:
+                      - generic [ref=e194]: "39"
+                      - text: posts
+                    - link "5,548 followers" [ref=e196] [cursor=pointer]:
+                      - /url: "#"
+                      - generic [ref=e197]:
+                        - generic "5,548" [ref=e198]
+                        - text: followers
+                    - link "1,844 following" [ref=e200] [cursor=pointer]:
+                      - /url: "#"
+                      - generic [ref=e201]:
+                        - generic [ref=e202]: 1,844
+                        - text: following
+                - generic [ref=e204]:
+                  - generic [ref=e206]: Digital creator
+                  - button "ASU'25 🎓 everything happens for a reason 💌 collab.mansi95@gmail.com" [ref=e208] [cursor=pointer]:
+                    - generic [ref=e209]:
+                      - text: ASU'25 🎓
+                      - text: everything happens for a reason
+                      - text: 💌 collab.mansi95@gmail.com
+                  - heading [level=1]
+            - generic [ref=e214]:
+              - link "Edit profile" [ref=e216] [cursor=pointer]:
+                - /url: /accounts/edit/
+              - link "View archive" [ref=e218] [cursor=pointer]:
+                - /url: /archive/stories/
+            - menu [ref=e220]:
+              - generic [ref=e222]:
+                - generic [ref=e224]:
+                  - status "Loading..." [ref=e226]
+                  - status "Loading..." [ref=e228]
+                - generic [ref=e230]:
+                  - status "Loading..." [ref=e232]
+                  - status "Loading..." [ref=e234]
+                - generic [ref=e236]:
+                  - status "Loading..." [ref=e238]
+                  - status "Loading..." [ref=e240]
+                - generic [ref=e242]:
+                  - status "Loading..." [ref=e244]
+                  - status "Loading..." [ref=e246]
+                - generic [ref=e248]:
+                  - status "Loading..." [ref=e250]
+                  - status "Loading..." [ref=e252]
+                - generic [ref=e254]:
+                  - status "Loading..." [ref=e256]
+                  - status "Loading..." [ref=e258]
+                - generic [ref=e260]:
+                  - status "Loading..." [ref=e262]
+                  - status "Loading..." [ref=e264]
+          - generic [ref=e265]:
+            - tablist [ref=e266]:
+              - link "Posts" [ref=e268] [cursor=pointer]:
+                - /url: /mansibachate/
+                - img "Posts" [ref=e270]
+              - link "Reels" [ref=e273] [cursor=pointer]:
+                - /url: /mansibachate/reels/
+                - img "Reels" [ref=e275]
+              - link "Saved" [ref=e278] [cursor=pointer]:
+                - /url: /mansibachate/saved/
+                - img "Saved" [ref=e280]
+              - link "Reposts" [ref=e283] [cursor=pointer]:
+                - /url: /mansibachate/reposts/
+                - img "Reposts" [ref=e285]
+              - link "Tagged" [ref=e288] [cursor=pointer]:
+                - /url: /mansibachate/tagged/
+                - img "Tagged" [ref=e290]
+            - tabpanel
+          - progressbar [ref=e294]:
+            - img "Loading..." [ref=e295]
+      - contentinfo [ref=e308]:
+        - generic [ref=e309]:
+          - generic [ref=e311]:
+            - link "Meta" [ref=e313] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e314]: Meta
+            - link "About" [ref=e316] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e317]: About
+            - link "Blog" [ref=e319] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e320]: Blog
+            - link "Jobs" [ref=e322] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e323]: Jobs
+            - link "Help" [ref=e325] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e326]: Help
+            - link "API" [ref=e328] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e329]: API
+            - link "Privacy" [ref=e331] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e332]: Privacy
+            - link "Consumer Health Privacy" [ref=e334] [cursor=pointer]:
+              - /url: /legal/privacy/health_privacy_policy/
+              - generic [ref=e335]: Consumer Health Privacy
+            - link "Terms" [ref=e337] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e338]: Terms
+            - link "Locations" [ref=e340] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e341]: Locations
+            - link "Popular" [ref=e343] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e344]: Popular
+            - link "Instagram Lite" [ref=e346] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e347]: Instagram Lite
+            - link "Meta AI" [ref=e349] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e350]: Meta AI
+            - link "Threads" [ref=e352] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e353]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e355] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e356]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e358] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e359]: Meta Verified
+          - generic [ref=e360]:
+            - generic [ref=e361] [cursor=pointer]:
+              - generic [ref=e362]:
+                - generic [ref=e363]: English
+                - img "Down chevron icon" [ref=e366]
+              - combobox "Switch Display Language" [ref=e368]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e370]: © 2026 Instagram from Meta
+  - button "Messages Messages" [ref=e372] [cursor=pointer]:
+    - generic [ref=e374]:
+      - img "Messages" [ref=e376]
+      - generic [ref=e379]: Messages

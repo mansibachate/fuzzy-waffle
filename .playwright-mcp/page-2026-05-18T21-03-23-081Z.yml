@@ -1,0 +1,910 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "MB" [ref=e4]:
+        - /url: "#hero"
+      - list [ref=e5]:
+        - listitem [ref=e6]:
+          - link "Bio" [ref=e7]:
+            - /url: "#bio"
+        - listitem [ref=e8]:
+          - link "Why Me" [ref=e9]:
+            - /url: "#why-me"
+        - listitem [ref=e10]:
+          - link "Collabs" [ref=e11]:
+            - /url: "#collabs"
+        - listitem [ref=e12]:
+          - link "Content" [ref=e13]:
+            - /url: "#content"
+        - listitem [ref=e14]:
+          - link "Analyst Edge" [ref=e15]:
+            - /url: "#analyst"
+        - listitem [ref=e16]:
+          - link "Contact" [ref=e17]:
+            - /url: "#contact"
+      - link "@mansibachate" [ref=e18]:
+        - /url: https://www.instagram.com/mansibachate/
+  - generic [ref=e19]:
+    - generic [ref=e20]:
+      - paragraph [ref=e21]: Analyst · Model · Brand Builder
+      - heading "MANSI BACHATE" [level=1] [ref=e22]:
+        - generic [ref=e23]: MANSI
+        - emphasis [ref=e24]: BACHATE
+      - paragraph [ref=e25]:
+        - text: Finance meets Fashion.
+        - text: Data meets Design.
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - strong [ref=e28]: $100M+
+          - generic [ref=e29]: Budgets Managed
+        - generic [ref=e31]:
+          - strong [ref=e32]: Top 16
+          - generic [ref=e33]: Femina Miss India
+        - generic [ref=e35]:
+          - strong [ref=e36]: 199K+
+          - generic [ref=e37]: Reel Views
+      - generic [ref=e38]:
+        - link "View My Work" [ref=e39]:
+          - /url: "#collabs"
+        - link "Let's Collab" [ref=e40]:
+          - /url: "#contact"
+    - generic [ref=e41]:
+      - img "Mansi Bachate" [ref=e43]
+      - generic [ref=e44]: Intel · AtkinRéalis · NYFW · Femina Miss India
+  - generic [ref=e47]:
+    - generic [ref=e48]:
+      - generic [ref=e49]: Brand Strategist
+      - generic [ref=e50]: ★
+      - generic [ref=e51]: Intel Corporation
+      - generic [ref=e52]: ★
+      - generic [ref=e53]: Femina Miss India 2026
+      - generic [ref=e54]: ★
+      - generic [ref=e55]: New York Fashion Week
+      - generic [ref=e56]: ★
+      - generic [ref=e57]: Content Creator
+      - generic [ref=e58]: ★
+      - generic [ref=e59]: "@mansibachate"
+      - generic [ref=e60]: ★
+      - generic [ref=e61]: BullForce Trading
+      - generic [ref=e62]: ★
+      - generic [ref=e63]: Arova Perfume
+      - generic [ref=e64]: ★
+      - generic [ref=e65]: $100M+ Managed
+      - generic [ref=e66]: ★
+      - generic [ref=e67]: Arizona State University
+      - generic [ref=e68]: ★
+    - generic [ref=e69]:
+      - generic [ref=e70]: Brand Strategist
+      - generic [ref=e71]: ★
+      - generic [ref=e72]: Intel Corporation
+      - generic [ref=e73]: ★
+      - generic [ref=e74]: Femina Miss India 2026
+      - generic [ref=e75]: ★
+      - generic [ref=e76]: New York Fashion Week
+      - generic [ref=e77]: ★
+      - generic [ref=e78]: Content Creator
+      - generic [ref=e79]: ★
+      - generic [ref=e80]: "@mansibachate"
+      - generic [ref=e81]: ★
+      - generic [ref=e82]: BullForce Trading
+      - generic [ref=e83]: ★
+      - generic [ref=e84]: Arova Perfume
+      - generic [ref=e85]: ★
+      - generic [ref=e86]: $100M+ Managed
+      - generic [ref=e87]: ★
+      - generic [ref=e88]: Arizona State University
+      - generic [ref=e89]: ★
+  - generic [ref=e92]:
+    - generic [ref=e93]:
+      - generic [ref=e94]: "01"
+      - generic [ref=e95]: Bio
+    - generic [ref=e96]:
+      - heading "Not just an analyst. Not just a model." [level=2] [ref=e97]:
+        - text: Not just an analyst.
+        - text: Not just a model.
+      - generic [ref=e98]:
+        - paragraph [ref=e99]: I'm someone who's hard to put in a box. And honestly, I've stopped trying.
+        - paragraph [ref=e100]: By training, I'm a financial analyst with a double major in Finance and Business Data Analytics from ASU's W. P. Carey School of Business. By passion, I've competed on national stages, walked international runways, and built my own brand from the ground up.
+        - paragraph [ref=e101]: What drives me isn't a job title. It's that feeling of getting better at something I truly love. Analytics is one of those things. So is building a brand. I understand how data works. I also understand how a brand should feel.
+      - generic [ref=e102]:
+        - generic [ref=e103]: Intel Corporation
+        - generic [ref=e104]: AtkinRéalis
+        - generic [ref=e105]: Femina Miss India
+        - generic [ref=e106]: New York Fashion Week
+        - generic [ref=e107]: ASU W. P. Carey
+  - generic [ref=e109]:
+    - generic [ref=e110]:
+      - paragraph [ref=e111]: 02 · The Case
+      - heading "WHY ME?" [level=2] [ref=e112]
+    - generic [ref=e113]:
+      - generic [ref=e114]:
+        - generic [ref=e115]: "01."
+        - generic [ref=e116]:
+          - heading "I strategize, not just post." [level=3] [ref=e117]
+          - paragraph [ref=e118]: With a background in data analytics, I track what works, what doesn't, and why. Every piece of content is backed by real numbers and real insight.
+      - generic [ref=e119]:
+        - generic [ref=e120]: "02."
+        - generic [ref=e121]:
+          - heading "I know how to command a room." [level=3] [ref=e122]
+          - paragraph [ref=e123]: From Femina Miss India 2026 to walking New York Fashion Week, I bring stage presence and brand confidence that comes from actually being there.
+      - generic [ref=e124]:
+        - generic [ref=e125]: "03."
+        - generic [ref=e126]:
+          - heading "I understand your audience." [level=3] [ref=e127]
+          - paragraph [ref=e128]: I've analyzed audiences both in finance and on social media. I know how to segment, reach, and convert. Real growth, not vanity metrics.
+      - generic [ref=e129]:
+        - generic [ref=e130]: "04."
+        - generic [ref=e131]:
+          - heading "I'm the whole package." [level=3] [ref=e132]
+          - paragraph [ref=e133]: Finance brain. Creative eye. Real-world stage experience. Brands don't just get a face. They get a strategist.
+  - generic [ref=e135]:
+    - generic [ref=e136]:
+      - paragraph [ref=e137]: 03 · Work
+      - heading "RECENT COLLABS" [level=2] [ref=e138]
+    - generic [ref=e139]:
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e142]: Stage · National
+          - generic [ref=e143]: "2026"
+        - generic [ref=e144]:
+          - generic [ref=e145]: "01"
+          - heading "Femina Miss India 2026" [level=3] [ref=e146]
+          - paragraph [ref=e147]: Top 16 Finalist
+          - paragraph [ref=e148]: Competed at a national level among thousands of applicants, placing in the top 16 at one of India's most prestigious pageants. Every stage is a brand moment.
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - generic [ref=e151]: Runway · International
+          - generic [ref=e152]: "2024"
+        - generic [ref=e153]:
+          - generic [ref=e154]: "02"
+          - heading "New York Fashion Week" [level=3] [ref=e155]
+          - paragraph [ref=e156]: Runway Model
+          - paragraph [ref=e157]: Walked the runway at NYFW, bringing professional poise and presence to one of the world's most watched fashion stages.
+      - generic [ref=e158]:
+        - generic [ref=e159]:
+          - generic [ref=e160]: Brand Campaign
+          - generic [ref=e161]: "2024"
+        - generic [ref=e162]:
+          - generic [ref=e163]: "03"
+          - heading "BullForce Trading" [level=3] [ref=e164]
+          - paragraph [ref=e165]: Brand Collaboration
+          - paragraph [ref=e166]: Curated campaign with creative direction, content creation, and audience engagement.
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - generic [ref=e169]: Brand Campaign
+          - generic [ref=e170]: "2024"
+        - generic [ref=e171]:
+          - generic [ref=e172]: "04"
+          - heading "Arova Perfume" [level=3] [ref=e173]
+          - paragraph [ref=e174]: Brand Collaboration
+          - paragraph [ref=e175]: Authentic content aligned with the brand's aesthetic, managing creative direction end to end.
+  - generic [ref=e176]:
+    - text: "\""
+    - generic [ref=e177]:
+      - paragraph [ref=e178]:
+        - text: "\"Finance meets Fashion."
+        - text: Data meets Design."
+      - paragraph [ref=e179]: Mansi Bachate
+  - generic [ref=e180]:
+    - generic [ref=e181]:
+      - generic [ref=e182]:
+        - paragraph [ref=e183]: 04 · Content
+        - heading "THE CONTENT" [level=2] [ref=e184]
+      - generic [ref=e185]:
+        - paragraph [ref=e186]: Building a brand one reel at a time. Finance, fashion, and lifestyle all in one feed.
+        - generic [ref=e187]:
+          - generic [ref=e188]: 5.5K+ Followers
+          - generic [ref=e189]: ·
+          - generic [ref=e190]: 199K+ Reel Views
+          - generic [ref=e191]: ·
+          - link "@mansibachate ↗" [ref=e192]:
+            - /url: https://www.instagram.com/mansibachate/
+    - generic [ref=e194]:
+      - iframe [ref=e196]:
+        - generic [ref=f1e5]:
+          - generic [ref=f1e6]:
+            - link "mansibachate" [ref=f1e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - img "mansibachate" [ref=f1e9]
+            - generic [ref=f1e10]:
+              - link "mansibachate" [ref=f1e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+                - generic [ref=f1e12]: mansibachate
+              - generic [ref=f1e13]: Original audio
+            - link "View profile" [ref=f1e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+          - generic [ref=f1e16]:
+            - link "Instagram post shared by @mansibachate" [ref=f1e17] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - img "Instagram post shared by @mansibachate"
+            - generic [ref=f1e19]:
+              - button "Play" [ref=f1e23]
+              - button "Control" [ref=f1e24] [cursor=pointer]
+          - generic [ref=f1e25]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f1e26] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - generic [ref=f1e27]:
+                - img "mansibachate" [ref=f1e28]
+                - generic [ref=f1e29]:
+                  - generic [ref=f1e31]: mansibachate
+                  - generic [ref=f1e33]: 39 posts · 6K followers
+              - generic [ref=f1e34]:
+                - img [ref=f1e35]
+                - img [ref=f1e36]
+            - link "View more on Instagram" [ref=f1e38] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+          - generic [ref=f1e39]:
+            - link "Like" [ref=f1e40] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - generic: Like
+            - link "Comment" [ref=f1e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - generic [ref=f1e44]: Comment
+            - link "Share" [ref=f1e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - generic [ref=f1e47]: Share
+            - link "Save" [ref=f1e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - generic [ref=f1e50]: Save
+          - link "277 likes" [ref=f1e52] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+          - generic [ref=f1e53]:
+            - link "Add a comment..." [ref=f1e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+            - link "Instagram" [ref=f1e55] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWjhK9oDYbU/?utm_source=ig_embed&ig_rid=a8f5edeb-0375-4f94-b1bb-fb317f615519
+              - generic [ref=f1e57]: Instagram
+      - iframe [ref=e198]:
+        - generic [ref=f2e5]:
+          - generic [ref=f2e6]:
+            - link "mansibachate" [ref=f2e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+              - img "mansibachate" [ref=f2e9]
+            - generic [ref=f2e10]:
+              - link "mansibachate" [ref=f2e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+                - generic [ref=f2e12]: mansibachate
+              - generic [ref=f2e13]: ·
+            - link "View profile" [ref=f2e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+          - link "Instagram post shared by @mansibachate Play Watch on Instagram" [ref=f2e17] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+            - img "Instagram post shared by @mansibachate"
+            - generic [ref=f2e18]:
+              - generic [ref=f2e20]: Play
+              - generic [ref=f2e21]: Watch on Instagram
+          - generic [ref=f2e22]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f2e23] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+              - generic [ref=f2e24]:
+                - img "mansibachate" [ref=f2e25]
+                - generic [ref=f2e26]:
+                  - generic [ref=f2e28]: mansibachate
+                  - generic [ref=f2e30]: 39 posts · 6K followers
+              - generic [ref=f2e31]:
+                - img [ref=f2e32]
+                - img [ref=f2e33]
+            - link "View more on Instagram" [ref=f2e35] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+          - generic [ref=f2e36]:
+            - link "Like" [ref=f2e37] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+              - generic: Like
+            - link "Comment" [ref=f2e39] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+              - generic [ref=f2e41]: Comment
+            - link "Share" [ref=f2e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+              - generic [ref=f2e44]: Share
+            - link "Save" [ref=f2e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+              - generic [ref=f2e47]: Save
+          - link "220 likes" [ref=f2e49] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+          - generic [ref=f2e50]:
+            - link "Add a comment..." [ref=f2e51] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+            - link "Instagram" [ref=f2e52] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DXLwv0qj3Ks/?utm_source=ig_embed&ig_rid=8a35502d-80c9-42d8-8634-e29d96e840ea
+              - generic [ref=f2e54]: Instagram
+      - iframe [ref=e200]:
+        - generic [ref=f3e5]:
+          - generic [ref=f3e6]:
+            - link "mansibachate" [ref=f3e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - img "mansibachate" [ref=f3e9]
+            - generic [ref=f3e10]:
+              - link "mansibachate" [ref=f3e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+                - generic [ref=f3e12]: mansibachate
+              - generic [ref=f3e13]: Original audio
+            - link "View profile" [ref=f3e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+          - generic [ref=f3e16]:
+            - link "Instagram post shared by @mansibachate" [ref=f3e17] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - img "Instagram post shared by @mansibachate"
+            - generic [ref=f3e19]:
+              - button "Play" [ref=f3e23]
+              - button "Control" [ref=f3e24] [cursor=pointer]
+          - generic [ref=f3e25]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f3e26] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - generic [ref=f3e27]:
+                - img "mansibachate" [ref=f3e28]
+                - generic [ref=f3e29]:
+                  - generic [ref=f3e31]: mansibachate
+                  - generic [ref=f3e33]: 39 posts · 6K followers
+              - generic [ref=f3e34]:
+                - img [ref=f3e35]
+                - img [ref=f3e36]
+            - link "View more on Instagram" [ref=f3e38] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+          - generic [ref=f3e39]:
+            - link "Like" [ref=f3e40] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - generic: Like
+            - link "Comment" [ref=f3e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - generic [ref=f3e44]: Comment
+            - link "Share" [ref=f3e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - generic [ref=f3e47]: Share
+            - link "Save" [ref=f3e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - generic [ref=f3e50]: Save
+          - link "407 likes" [ref=f3e52] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+          - generic [ref=f3e53]:
+            - link "Add a comment..." [ref=f3e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+            - link "Instagram" [ref=f3e55] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW8FBEYDKaY/?utm_source=ig_embed&ig_rid=0477bd32-d1d8-4cca-bb9d-e99d2ed8cea8
+              - generic [ref=f3e57]: Instagram
+      - iframe [ref=e202]:
+        - generic [ref=f4e5]:
+          - generic [ref=f4e6]:
+            - link "mansibachate" [ref=f4e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - img "mansibachate" [ref=f4e9]
+            - generic [ref=f4e10]:
+              - link "mansibachate" [ref=f4e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+                - generic [ref=f4e12]: mansibachate
+              - generic [ref=f4e13]: Mitta Ror, Swara Verma · Sheesha (Slowed + Reverb)
+            - link "View profile" [ref=f4e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+          - generic [ref=f4e16]:
+            - link "Instagram post shared by @mansibachate" [ref=f4e17] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - img "Instagram post shared by @mansibachate"
+            - generic [ref=f4e19]:
+              - button "Play" [ref=f4e23]
+              - button "Control" [ref=f4e24] [cursor=pointer]
+          - generic [ref=f4e25]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f4e26] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - generic [ref=f4e27]:
+                - img "mansibachate" [ref=f4e28]
+                - generic [ref=f4e29]:
+                  - generic [ref=f4e31]: mansibachate
+                  - generic [ref=f4e33]: 39 posts · 6K followers
+              - generic [ref=f4e34]:
+                - img [ref=f4e35]
+                - img [ref=f4e36]
+            - link "View more on Instagram" [ref=f4e38] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+          - generic [ref=f4e39]:
+            - link "Like" [ref=f4e40] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - generic: Like
+            - link "Comment" [ref=f4e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - generic [ref=f4e44]: Comment
+            - link "Share" [ref=f4e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - generic [ref=f4e47]: Share
+            - link "Save" [ref=f4e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - generic [ref=f4e50]: Save
+          - link "328 likes" [ref=f4e52] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+          - generic [ref=f4e53]:
+            - link "Add a comment..." [ref=f4e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+            - link "Instagram" [ref=f4e55] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW5dUmJDZCm/?utm_source=ig_embed&ig_rid=ea4ab7fb-b3a4-40e6-af6f-1e11197bbe26
+              - generic [ref=f4e57]: Instagram
+      - iframe [ref=e204]:
+        - generic [ref=f5e5]:
+          - generic [ref=f5e6]:
+            - generic [ref=f5e7]:
+              - link "aditi_nagariya" [ref=f5e8] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+                - img "aditi_nagariya" [ref=f5e9]
+              - link "aditi_nagariya" [ref=f5e10] [cursor=pointer]:
+                - /url: https://www.instagram.com/aditi_nagariya/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+                - img "aditi_nagariya" [ref=f5e11]
+            - generic [ref=f5e12]:
+              - generic [ref=f5e13]:
+                - link "aditi_nagariya" [ref=f5e14] [cursor=pointer]:
+                  - /url: https://www.instagram.com/aditi_nagariya/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+                  - generic [ref=f5e15]: aditi_nagariya
+                - generic [ref=f5e16]: and
+                - link "mansibachate" [ref=f5e17] [cursor=pointer]:
+                  - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+                  - generic [ref=f5e18]: mansibachate
+              - generic [ref=f5e19]: Tame Impala, JENNIE · Dracula (JENNIE Remix)
+            - link "View profile" [ref=f5e21] [cursor=pointer]:
+              - /url: https://www.instagram.com/aditi_nagariya/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+          - link "Instagram post shared by @aditi_nagariya Play Watch on Instagram" [ref=f5e23] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+            - img "Instagram post shared by @aditi_nagariya"
+            - generic [ref=f5e24]:
+              - generic [ref=f5e26]: Play
+              - generic [ref=f5e27]: Watch on Instagram
+          - generic [ref=f5e28]:
+            - link "aditi_nagariya aditi_nagariya 23 posts · 3K followers" [ref=f5e29] [cursor=pointer]:
+              - /url: https://www.instagram.com/aditi_nagariya/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+              - generic [ref=f5e30]:
+                - img "aditi_nagariya" [ref=f5e31]
+                - generic [ref=f5e32]:
+                  - generic [ref=f5e34]: aditi_nagariya
+                  - generic [ref=f5e36]: 23 posts · 3K followers
+              - generic [ref=f5e37]:
+                - img [ref=f5e38]
+                - img [ref=f5e39]
+            - link "View more on Instagram" [ref=f5e41] [cursor=pointer]:
+              - /url: https://www.instagram.com/aditi_nagariya/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+          - generic [ref=f5e42]:
+            - link "Like" [ref=f5e43] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+              - generic: Like
+            - link "Comment" [ref=f5e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+              - generic [ref=f5e47]: Comment
+            - link "Share" [ref=f5e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+              - generic [ref=f5e50]: Share
+            - link "Save" [ref=f5e51] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+              - generic [ref=f5e53]: Save
+          - link "10,255 likes" [ref=f5e55] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+          - generic [ref=f5e56]:
+            - link "Add a comment..." [ref=f5e57] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+            - link "Instagram" [ref=f5e58] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DW0coIDgaxt/?utm_source=ig_embed&ig_rid=3902b98b-71fd-451e-97a6-afd23aed67fc
+              - generic [ref=f5e60]: Instagram
+      - iframe [ref=e206]:
+        - generic [ref=f6e5]:
+          - generic [ref=f6e6]:
+            - link "mansibachate" [ref=f6e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - img "mansibachate" [ref=f6e9]
+            - generic [ref=f6e10]:
+              - link "mansibachate" [ref=f6e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+                - generic [ref=f6e12]: mansibachate
+              - generic [ref=f6e13]: Original audio
+            - link "View profile" [ref=f6e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+          - generic [ref=f6e16]:
+            - link "Instagram post shared by @mansibachate" [ref=f6e17] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - img "Instagram post shared by @mansibachate"
+            - generic [ref=f6e52]:
+              - button "Play" [ref=f6e56]
+              - button "Control" [ref=f6e57] [cursor=pointer]
+          - generic [ref=f6e18]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f6e19] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - generic [ref=f6e20]:
+                - img "mansibachate" [ref=f6e21]
+                - generic [ref=f6e22]:
+                  - generic [ref=f6e24]: mansibachate
+                  - generic [ref=f6e26]: 39 posts · 6K followers
+              - generic [ref=f6e27]:
+                - img [ref=f6e28]
+                - img [ref=f6e29]
+            - link "View more on Instagram" [ref=f6e31] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+          - generic [ref=f6e32]:
+            - link "Like" [ref=f6e33] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - generic: Like
+            - link "Comment" [ref=f6e35] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - generic [ref=f6e37]: Comment
+            - link "Share" [ref=f6e38] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - generic [ref=f6e40]: Share
+            - link "Save" [ref=f6e41] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - generic [ref=f6e43]: Save
+          - link "183 likes" [ref=f6e45] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+          - generic [ref=f6e46]:
+            - link "Add a comment..." [ref=f6e47] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+            - link "Instagram" [ref=f6e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DWvQHdCJqpY/?utm_source=ig_embed&ig_rid=2c6d97d0-f919-4214-9da0-f4d8dbc7f3bf
+              - generic [ref=f6e50]: Instagram
+      - iframe [ref=e208]:
+        - generic [ref=f7e5]:
+          - generic [ref=f7e6]:
+            - link "mansibachate" [ref=f7e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+              - img "mansibachate" [ref=f7e9]
+            - generic [ref=f7e10]:
+              - link "mansibachate" [ref=f7e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+                - generic [ref=f7e12]: mansibachate
+              - generic [ref=f7e13]: Tame Impala, JENNIE · Dracula (JENNIE Remix)
+            - link "View profile" [ref=f7e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+          - link "Instagram post shared by @mansibachate Play Watch on Instagram" [ref=f7e17] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+            - img "Instagram post shared by @mansibachate"
+            - generic [ref=f7e18]:
+              - generic [ref=f7e20]: Play
+              - generic [ref=f7e21]: Watch on Instagram
+          - generic [ref=f7e22]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f7e23] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+              - generic [ref=f7e24]:
+                - img "mansibachate" [ref=f7e25]
+                - generic [ref=f7e26]:
+                  - generic [ref=f7e28]: mansibachate
+                  - generic [ref=f7e30]: 39 posts · 6K followers
+              - generic [ref=f7e31]:
+                - img [ref=f7e32]
+                - img [ref=f7e33]
+            - link "View more on Instagram" [ref=f7e35] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+          - generic [ref=f7e36]:
+            - link "Like" [ref=f7e37] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+              - generic: Like
+            - link "Comment" [ref=f7e39] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+              - generic [ref=f7e41]: Comment
+            - link "Share" [ref=f7e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+              - generic [ref=f7e44]: Share
+            - link "Save" [ref=f7e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+              - generic [ref=f7e47]: Save
+          - link "1,358 likes" [ref=f7e49] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+          - generic [ref=f7e50]:
+            - link "Add a comment..." [ref=f7e51] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+            - link "Instagram" [ref=f7e52] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DV5Ov2iDXPI/?utm_source=ig_embed&ig_rid=4c261d4c-4776-4ca7-81dc-95a6e0d0b9d3
+              - generic [ref=f7e54]: Instagram
+      - iframe [ref=e210]:
+        - generic [ref=f8e5]:
+          - generic [ref=f8e6]:
+            - link "mansibachate" [ref=f8e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+              - img "mansibachate" [ref=f8e9]
+            - generic [ref=f8e10]:
+              - link "mansibachate" [ref=f8e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+                - generic [ref=f8e12]: mansibachate
+              - generic [ref=f8e13]: Doja Cat · Up And Down
+            - link "View profile" [ref=f8e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+          - link "Instagram post shared by @mansibachate Play Watch on Instagram" [ref=f8e17] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+            - img "Instagram post shared by @mansibachate"
+            - generic [ref=f8e18]:
+              - generic [ref=f8e20]: Play
+              - generic [ref=f8e21]: Watch on Instagram
+          - generic [ref=f8e22]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f8e23] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+              - generic [ref=f8e24]:
+                - img "mansibachate" [ref=f8e25]
+                - generic [ref=f8e26]:
+                  - generic [ref=f8e28]: mansibachate
+                  - generic [ref=f8e30]: 39 posts · 6K followers
+              - generic [ref=f8e31]:
+                - img [ref=f8e32]
+                - img [ref=f8e33]
+            - link "View more on Instagram" [ref=f8e35] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+          - generic [ref=f8e36]:
+            - link "Like" [ref=f8e37] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+              - generic: Like
+            - link "Comment" [ref=f8e39] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+              - generic [ref=f8e41]: Comment
+            - link "Share" [ref=f8e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+              - generic [ref=f8e44]: Share
+            - link "Save" [ref=f8e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+              - generic [ref=f8e47]: Save
+          - link "214 likes" [ref=f8e49] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+          - generic [ref=f8e50]:
+            - link "Add a comment..." [ref=f8e51] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+            - link "Instagram" [ref=f8e52] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DUfbpYFEhcm/?utm_source=ig_embed&ig_rid=01f3a9a5-56c0-4e39-b231-4a4d7614c517
+              - generic [ref=f8e54]: Instagram
+      - iframe [ref=e212]:
+        - generic [ref=f9e5]:
+          - generic [ref=f9e6]:
+            - link "mansibachate" [ref=f9e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - img "mansibachate" [ref=f9e9]
+            - generic [ref=f9e10]:
+              - link "mansibachate" [ref=f9e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+                - generic [ref=f9e12]: mansibachate
+              - generic [ref=f9e13]: Original audio
+            - link "View profile" [ref=f9e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+          - generic [ref=f9e16]:
+            - link "Instagram post shared by @mansibachate" [ref=f9e17] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - img "Instagram post shared by @mansibachate"
+            - generic [ref=f9e19]:
+              - button "Play" [ref=f9e23]
+              - button "Control" [ref=f9e24] [cursor=pointer]
+          - generic [ref=f9e25]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f9e26] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - generic [ref=f9e27]:
+                - img "mansibachate" [ref=f9e28]
+                - generic [ref=f9e29]:
+                  - generic [ref=f9e31]: mansibachate
+                  - generic [ref=f9e33]: 39 posts · 6K followers
+              - generic [ref=f9e34]:
+                - img [ref=f9e35]
+                - img [ref=f9e36]
+            - link "View more on Instagram" [ref=f9e38] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+          - generic [ref=f9e39]:
+            - link "Like" [ref=f9e40] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - generic: Like
+            - link "Comment" [ref=f9e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - generic [ref=f9e44]: Comment
+            - link "Share" [ref=f9e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - generic [ref=f9e47]: Share
+            - link "Save" [ref=f9e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - generic [ref=f9e50]: Save
+          - link "296 likes" [ref=f9e52] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+          - generic [ref=f9e53]:
+            - link "Add a comment..." [ref=f9e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+            - link "Instagram" [ref=f9e55] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DRWHrKBETLj/?utm_source=ig_embed&ig_rid=897c8c4a-4055-438f-b396-eb09295667ea
+              - generic [ref=f9e57]: Instagram
+      - iframe [ref=e214]:
+        - generic [ref=f10e5]:
+          - generic [ref=f10e6]:
+            - link "mansibachate" [ref=f10e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - img "mansibachate" [ref=f10e9]
+            - generic [ref=f10e10]:
+              - link "mansibachate" [ref=f10e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+                - generic [ref=f10e12]: mansibachate
+              - generic [ref=f10e13]: noamraiter · I did it all 🌟
+            - link "View profile" [ref=f10e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+          - generic [ref=f10e16]:
+            - link "Instagram post shared by @mansibachate" [ref=f10e17] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - img "Instagram post shared by @mansibachate"
+            - generic [ref=f10e19]:
+              - button "Play" [ref=f10e23]
+              - button "Control" [ref=f10e24] [cursor=pointer]
+          - generic [ref=f10e25]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f10e26] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - generic [ref=f10e27]:
+                - img "mansibachate" [ref=f10e28]
+                - generic [ref=f10e29]:
+                  - generic [ref=f10e31]: mansibachate
+                  - generic [ref=f10e33]: 39 posts · 6K followers
+              - generic [ref=f10e34]:
+                - img [ref=f10e35]
+                - img [ref=f10e36]
+            - link "View more on Instagram" [ref=f10e38] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+          - generic [ref=f10e39]:
+            - link "Like" [ref=f10e40] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - generic: Like
+            - link "Comment" [ref=f10e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - generic [ref=f10e44]: Comment
+            - link "Share" [ref=f10e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - generic [ref=f10e47]: Share
+            - link "Save" [ref=f10e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - generic [ref=f10e50]: Save
+          - link "315 likes" [ref=f10e52] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+          - generic [ref=f10e53]:
+            - link "Add a comment..." [ref=f10e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+            - link "Instagram" [ref=f10e55] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQ-yYnVkRXw/?utm_source=ig_embed&ig_rid=6723e1ad-a47b-40ef-acbc-170b63f886d1
+              - generic [ref=f10e57]: Instagram
+      - iframe [ref=e216]:
+        - generic [ref=f11e5]:
+          - generic [ref=f11e6]:
+            - link "mansibachate" [ref=f11e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+              - img "mansibachate" [ref=f11e9]
+            - generic [ref=f11e10]:
+              - link "mansibachate" [ref=f11e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+                - generic [ref=f11e12]: mansibachate
+              - generic [ref=f11e13]: "*NSYNC · Bye Bye Bye"
+            - link "View profile" [ref=f11e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+          - link "Instagram post shared by @mansibachate Play Watch on Instagram" [ref=f11e17] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+            - img "Instagram post shared by @mansibachate"
+            - generic [ref=f11e18]:
+              - generic [ref=f11e20]: Play
+              - generic [ref=f11e21]: Watch on Instagram
+          - generic [ref=f11e22]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f11e23] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+              - generic [ref=f11e24]:
+                - img "mansibachate" [ref=f11e25]
+                - generic [ref=f11e26]:
+                  - generic [ref=f11e28]: mansibachate
+                  - generic [ref=f11e30]: 39 posts · 6K followers
+              - generic [ref=f11e31]:
+                - img [ref=f11e32]
+                - img [ref=f11e33]
+            - link "View more on Instagram" [ref=f11e35] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+          - generic [ref=f11e36]:
+            - link "Like" [ref=f11e37] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+              - generic: Like
+            - link "Comment" [ref=f11e39] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+              - generic [ref=f11e41]: Comment
+            - link "Share" [ref=f11e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+              - generic [ref=f11e44]: Share
+            - link "Save" [ref=f11e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+              - generic [ref=f11e47]: Save
+          - link "9,014 likes" [ref=f11e49] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+          - generic [ref=f11e50]:
+            - link "Add a comment..." [ref=f11e51] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+            - link "Instagram" [ref=f11e52] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQi081cjfJs/?utm_source=ig_embed&ig_rid=7b11ea99-4543-4c04-8af8-dc90b4e4d00b
+              - generic [ref=f11e54]: Instagram
+      - iframe [ref=e218]:
+        - generic [ref=f12e5]:
+          - generic [ref=f12e6]:
+            - link "mansibachate" [ref=f12e8] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - img "mansibachate" [ref=f12e9]
+            - generic [ref=f12e10]:
+              - link "mansibachate" [ref=f12e11] [cursor=pointer]:
+                - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+                - generic [ref=f12e12]: mansibachate
+              - generic [ref=f12e13]: Original audio
+            - link "View profile" [ref=f12e15] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+          - generic [ref=f12e16]:
+            - link "Instagram post shared by @mansibachate" [ref=f12e17] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - img "Instagram post shared by @mansibachate"
+            - generic [ref=f12e19]:
+              - button "Play" [ref=f12e23]
+              - button "Control" [ref=f12e24] [cursor=pointer]
+          - generic [ref=f12e25]:
+            - link "mansibachate mansibachate 39 posts · 6K followers" [ref=f12e26] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - generic [ref=f12e27]:
+                - img "mansibachate" [ref=f12e28]
+                - generic [ref=f12e29]:
+                  - generic [ref=f12e31]: mansibachate
+                  - generic [ref=f12e33]: 39 posts · 6K followers
+              - generic [ref=f12e34]:
+                - img [ref=f12e35]
+                - img [ref=f12e36]
+            - link "View more on Instagram" [ref=f12e38] [cursor=pointer]:
+              - /url: https://www.instagram.com/mansibachate/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+          - generic [ref=f12e39]:
+            - link "Like" [ref=f12e40] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - generic: Like
+            - link "Comment" [ref=f12e42] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - generic [ref=f12e44]: Comment
+            - link "Share" [ref=f12e45] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - generic [ref=f12e47]: Share
+            - link "Save" [ref=f12e48] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - generic [ref=f12e50]: Save
+          - link "700 likes" [ref=f12e52] [cursor=pointer]:
+            - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+          - generic [ref=f12e53]:
+            - link "Add a comment..." [ref=f12e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+            - link "Instagram" [ref=f12e55] [cursor=pointer]:
+              - /url: https://www.instagram.com/reel/DQODFWlEV75/?utm_source=ig_embed&ig_rid=896013ac-4c5c-46dc-85cf-cbf3f314ca36
+              - generic [ref=f12e57]: Instagram
+  - generic [ref=e220]:
+    - generic [ref=e221]:
+      - paragraph [ref=e222]: 05 · The Edge
+      - heading "THE ANALYST EDGE" [level=2] [ref=e223]
+    - generic [ref=e224]:
+      - paragraph [ref=e225]: "\"Most creators guess. I measure.\""
+      - paragraph [ref=e226]: My background in finance and data analytics isn't a detour from brand work. It's the differentiator that most creators simply don't have.
+    - generic [ref=e227]:
+      - generic [ref=e228]:
+        - generic [ref=e229]: "01"
+        - generic [ref=e230]:
+          - heading "Data Analysis → Campaign Performance" [level=3] [ref=e231]
+          - paragraph [ref=e232]: "I track content metrics the same way I tracked financial KPIs: views, engagement rates, audience drop-off. I read the numbers and adjust, every time."
+      - generic [ref=e233]:
+        - generic [ref=e234]: "02"
+        - generic [ref=e235]:
+          - heading "Financial Modeling → ROI Forecasting" [level=3] [ref=e236]
+          - paragraph [ref=e237]: I built 5- and 10-year financial models at Shamrock Foods. I can build a concrete business case for any brand collaboration or campaign.
+      - generic [ref=e238]:
+        - generic [ref=e239]: "03"
+        - generic [ref=e240]:
+          - heading "SQL & Python → Audience Segmentation" [level=3] [ref=e241]
+          - paragraph [ref=e242]: I've used SQL and Python to analyze 150+ SKUs and identify market drivers. The same logic applies to understanding who's watching and why they care.
+      - generic [ref=e243]:
+        - generic [ref=e244]: "04"
+        - generic [ref=e245]:
+          - heading "Power BI → Content Strategy" [level=3] [ref=e246]
+          - paragraph [ref=e247]: I built dashboards that gave executives real-time visibility across $100M+ in budgets. I can do the same for campaign performance and audience growth.
+    - generic [ref=e248]:
+      - generic [ref=e249]:
+        - heading "Data Finance Analyst" [level=4] [ref=e250]
+        - paragraph [ref=e251]: Intel Corporation, AtkinRéalis · Jun 2025 – Present
+        - paragraph [ref=e252]: $100M+ budgets · 30% reporting time reduction · company-wide process adoption
+      - generic [ref=e253]:
+        - heading "Financial Analyst Intern" [level=4] [ref=e254]
+        - paragraph [ref=e255]: Shamrock Foods Services · May 2024 – Jan 2025
+        - paragraph [ref=e256]: $8M capital plan · 150+ SKU analysis · 25% market share growth forecasted
+      - generic [ref=e257]:
+        - heading "Double Major Graduate" [level=4] [ref=e258]
+        - paragraph [ref=e259]: W. P. Carey School of Business, ASU · 2021 – 2025
+        - paragraph [ref=e260]: BS Finance + BS Business Data Analytics · New American University Scholarship
+  - contentinfo [ref=e261]:
+    - generic [ref=e262]:
+      - paragraph [ref=e263]: 06 · Let's Work Together
+      - heading "READY TO COLLAB?" [level=2] [ref=e264]
+      - link "mansi.sbachate@gmail.com" [ref=e265]:
+        - /url: mailto:mansi.sbachate@gmail.com
+      - generic [ref=e266]:
+        - link "(602) 815-3123" [ref=e267]:
+          - /url: tel:6028153123
+        - link "LinkedIn" [ref=e268]:
+          - /url: https://www.linkedin.com/in/mansi-bachate/
+        - link "@mansibachate" [ref=e269]:
+          - /url: https://www.instagram.com/mansibachate/
+      - generic: MANSI BACHATE
+      - paragraph [ref=e270]: © 2026 Mansi Bachate. All rights reserved.

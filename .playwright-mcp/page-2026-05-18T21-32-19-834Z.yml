@@ -1,0 +1,422 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages Direct messaging - 4 new notifications link" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - generic [ref=e55]:
+            - img "Messages" [ref=e57]
+            - generic "Direct messaging - 4 new notifications link" [ref=e60]:
+              - generic [ref=e62]: "4"
+        - link "Search" [ref=e66] [cursor=pointer]:
+          - /url: "#"
+          - img "Search" [ref=e71]
+        - link "Explore" [ref=e77] [cursor=pointer]:
+          - /url: /explore/
+          - img "Explore" [ref=e82]
+        - link "Notifications" [ref=e91] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e96]
+        - link "New post" [ref=e104] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e109]
+        - link "Professional dashboard" [ref=e114] [cursor=pointer]:
+          - /url: "#"
+          - img "Professional dashboard" [ref=e119]
+        - link "mansibachate's profile picture" [ref=e126] [cursor=pointer]:
+          - /url: /mansibachate/
+          - link "mansibachate's profile picture" [ref=e131]:
+            - img "mansibachate's profile picture" [ref=e132]
+      - generic [ref=e133]:
+        - link "Settings" [ref=e136] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e141]
+        - link "Also from Meta" [ref=e144] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e149]
+    - generic [ref=e152]:
+      - main [ref=e153]:
+        - generic [ref=e154]:
+          - generic [ref=e156]:
+            - group "Video player" [ref=e175]:
+              - button "Toggle audio" [ref=e178] [cursor=pointer]:
+                - img "Audio is muted" [ref=e180]
+            - generic [ref=e183]:
+              - generic [ref=e185]:
+                - button "mansibachate's profile picture" [disabled] [ref=e190]:
+                  - link "mansibachate's profile picture" [disabled] [ref=e192] [cursor=pointer]:
+                    - img "mansibachate's profile picture" [ref=e193]
+                - generic [ref=e197]:
+                  - link "mansibachate" [ref=e205] [cursor=pointer]:
+                    - /url: /mansibachate/
+                    - generic [ref=e208]: mansibachate
+                  - link "Kirtidan Gadhvi, Priya Saraiya • Saibo Re" [ref=e212] [cursor=pointer]:
+                    - /url: /reels/audio/799184137296588/
+                    - generic [ref=e215]:
+                      - text: Kirtidan Gadhvi, Priya Saraiya
+                      - generic [ref=e216]: •
+                      - text: Saibo Re
+                - button "More options" [ref=e219] [cursor=pointer]:
+                  - img "More options" [ref=e222]
+              - separator [ref=e226]
+              - generic [ref=e228]:
+                - generic [ref=e230]:
+                  - link "mansibachate's profile picture" [ref=e235] [cursor=pointer]:
+                    - /url: /mansibachate/
+                    - img "mansibachate's profile picture" [ref=e236]
+                  - generic [ref=e240]:
+                    - generic [ref=e241]:
+                      - link "mansibachate" [ref=e245] [cursor=pointer]:
+                        - /url: /mansibachate/
+                        - generic [ref=e248]: mansibachate
+                      - generic [ref=e249]: Edited
+                      - generic [ref=e250]: •
+                      - time [ref=e252]: 33w
+                    - generic [ref=e253]:
+                      - text: 🤍
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - text: .
+                      - link "#navratri" [ref=e254] [cursor=pointer]:
+                        - /url: /explore/tags/navratri/
+                      - link "#garba" [ref=e255] [cursor=pointer]:
+                        - /url: /explore/tags/garba/
+                      - link "#love" [ref=e256] [cursor=pointer]:
+                        - /url: /explore/tags/love/
+                      - link "#ɴᴀᴠʀᴀᴛʀɪ2025" [ref=e257] [cursor=pointer]:
+                        - /url: /explore/tags/%C9%B4%E1%B4%80%E1%B4%A0%CA%80%E1%B4%80%E1%B4%9B%CA%80%C9%AA2025/
+                      - link "#reels" [ref=e258] [cursor=pointer]:
+                        - /url: /explore/tags/reels/
+                      - link "#trending" [ref=e259] [cursor=pointer]:
+                        - /url: /explore/tags/trending/
+                      - link "#rajkot" [ref=e260] [cursor=pointer]:
+                        - /url: /explore/tags/rajkot/
+                      - link "#fyp" [ref=e261] [cursor=pointer]:
+                        - /url: /explore/tags/fyp/
+                      - link "#foryoupage" [ref=e262] [cursor=pointer]:
+                        - /url: /explore/tags/foryoupage/
+                      - link "#foryou" [ref=e263] [cursor=pointer]:
+                        - /url: /explore/tags/foryou/
+                      - link "#dance" [ref=e264] [cursor=pointer]:
+                        - /url: /explore/tags/dance/
+                - generic [ref=e265]:
+                  - generic [ref=e266]:
+                    - generic [ref=e268]:
+                      - link "apurvaaanand's profile picture" [ref=e274] [cursor=pointer]:
+                        - /url: /apurvaaanand/
+                        - img "apurvaaanand's profile picture" [ref=e275]
+                      - generic [ref=e276]:
+                        - generic [ref=e277]:
+                          - generic [ref=e279]:
+                            - generic [ref=e280]:
+                              - link "apurvaaanand" [ref=e285] [cursor=pointer]:
+                                - /url: /apurvaaanand/
+                                - generic [ref=e288]: apurvaaanand
+                              - link "33w" [ref=e290] [cursor=pointer]:
+                                - /url: /p/DPMUIRlidkr/c/18057392108621108/
+                                - time [ref=e291]: 33w
+                            - generic [ref=e293]: ae halo💗
+                          - generic [ref=e294]:
+                            - button "1 like" [ref=e295] [cursor=pointer]:
+                              - generic [ref=e297]: 1 like
+                            - button "Reply" [ref=e298] [cursor=pointer]:
+                              - generic [ref=e300]: Reply
+                        - button "Unlike" [ref=e305] [cursor=pointer]:
+                          - img "Unlike" [ref=e308]
+                    - button "View all 1 replies" [ref=e311] [cursor=pointer]:
+                      - generic [ref=e314]: View all 1 replies
+                  - generic [ref=e315]:
+                    - generic [ref=e317]:
+                      - link "asawari_sontakke's profile picture" [ref=e323] [cursor=pointer]:
+                        - /url: /asawari_sontakke/
+                        - img "asawari_sontakke's profile picture" [ref=e324]
+                      - generic [ref=e325]:
+                        - generic [ref=e326]:
+                          - generic [ref=e328]:
+                            - generic [ref=e329]:
+                              - link "asawari_sontakke" [ref=e334] [cursor=pointer]:
+                                - /url: /asawari_sontakke/
+                                - generic [ref=e337]: asawari_sontakke
+                              - link "33w" [ref=e339] [cursor=pointer]:
+                                - /url: /p/DPMUIRlidkr/c/18050489165644897/
+                                - time [ref=e340]: 33w
+                            - generic [ref=e342]: Beauty ❤️
+                          - generic [ref=e343]:
+                            - button "1 like" [ref=e344] [cursor=pointer]:
+                              - generic [ref=e346]: 1 like
+                            - button "Reply" [ref=e347] [cursor=pointer]:
+                              - generic [ref=e349]: Reply
+                        - button "Unlike" [ref=e354] [cursor=pointer]:
+                          - img "Unlike" [ref=e357]
+                    - button "View all 1 replies" [ref=e360] [cursor=pointer]:
+                      - generic [ref=e363]: View all 1 replies
+                  - generic [ref=e366]:
+                    - link "wanderer_abhi17's profile picture" [ref=e372] [cursor=pointer]:
+                      - /url: /wanderer_abhi17/
+                      - img "wanderer_abhi17's profile picture" [ref=e373]
+                    - generic [ref=e374]:
+                      - generic [ref=e375]:
+                        - generic [ref=e377]:
+                          - generic [ref=e378]:
+                            - link "wanderer_abhi17" [ref=e383] [cursor=pointer]:
+                              - /url: /wanderer_abhi17/
+                              - generic [ref=e386]: wanderer_abhi17
+                            - link "33w" [ref=e388] [cursor=pointer]:
+                              - /url: /p/DPMUIRlidkr/c/18041343854677967/
+                              - time [ref=e389]: 33w
+                          - generic [ref=e391]: 😍😍
+                        - button "Reply" [ref=e393] [cursor=pointer]:
+                          - generic [ref=e395]: Reply
+                      - button "Like" [ref=e400] [cursor=pointer]:
+                        - img "Like" [ref=e403]
+                  - generic [ref=e407]:
+                    - link "abhishekdeore_'s profile picture" [ref=e413] [cursor=pointer]:
+                      - /url: /abhishekdeore_/
+                      - img "abhishekdeore_'s profile picture" [ref=e414]
+                    - generic [ref=e415]:
+                      - generic [ref=e416]:
+                        - generic [ref=e418]:
+                          - generic [ref=e419]:
+                            - link "abhishekdeore_" [ref=e424] [cursor=pointer]:
+                              - /url: /abhishekdeore_/
+                              - generic [ref=e427]: abhishekdeore_
+                            - link "33w" [ref=e429] [cursor=pointer]:
+                              - /url: /p/DPMUIRlidkr/c/18009843623797224/
+                              - time [ref=e430]: 33w
+                          - generic [ref=e432]: સારી દેખાય છે 😉❤️
+                        - generic [ref=e433]:
+                          - button "Reply" [ref=e434] [cursor=pointer]:
+                            - generic [ref=e436]: Reply
+                          - button "See translation" [ref=e437] [cursor=pointer]:
+                            - generic [ref=e439]: See translation
+                      - button "Like" [ref=e444] [cursor=pointer]:
+                        - img "Like" [ref=e447]
+              - generic [ref=e450]:
+                - button "View insights" [ref=e452] [cursor=pointer]
+                - button "Boost reel" [ref=e454] [cursor=pointer]
+              - generic [ref=e455]:
+                - generic [ref=e456]:
+                  - generic [ref=e457]:
+                    - button "Like" [ref=e460] [cursor=pointer]:
+                      - img "Like" [ref=e463]
+                    - button "480" [ref=e465] [cursor=pointer]
+                    - button "Comment" [ref=e467] [cursor=pointer]:
+                      - img "Comment" [ref=e469]
+                    - button "6" [ref=e471] [cursor=pointer]
+                    - button "Repost" [ref=e472] [cursor=pointer]:
+                      - img "Repost" [ref=e473]
+                    - button "1" [ref=e475] [cursor=pointer]
+                    - button "Share" [ref=e476] [cursor=pointer]:
+                      - img "Share" [ref=e477]
+                  - button "Save" [ref=e482] [cursor=pointer]:
+                    - button "Save" [ref=e483]:
+                      - img "Save" [ref=e485]
+                - generic [ref=e488]:
+                  - link [ref=e490] [cursor=pointer]:
+                    - /url: /p/DPMUIRlidkr/liked_by/
+                    - generic [ref=e492]:
+                      - button [ref=e493]:
+                        - link [ref=e494]
+                      - button [ref=e495]:
+                        - link [ref=e496]
+                      - button [ref=e497]:
+                        - link [ref=e498]
+                  - generic [ref=e500]:
+                    - text: Liked by
+                    - link "ab_7132" [ref=e501] [cursor=pointer]:
+                      - /url: /ab_7132/
+                    - text: and
+                    - link "479 others" [ref=e502] [cursor=pointer]:
+                      - /url: /p/DPMUIRlidkr/liked_by/
+                      - generic [ref=e503]: 479 others
+                - link "September 29, 2025" [ref=e506] [cursor=pointer]:
+                  - /url: /mansibachate/reel/DPMUIRlidkr/
+                  - time [ref=e508]: September 29, 2025
+              - generic [ref=e511]:
+                - link [ref=e512]
+                - generic [ref=e514]:
+                  - button "Emoji" [ref=e516] [cursor=pointer]:
+                    - img "Emoji" [ref=e518]
+                  - textbox "Add a comment…" [ref=e520]
+          - separator [ref=e522]
+          - generic [ref=e523]:
+            - generic [ref=e525]:
+              - text: More posts from
+              - link "mansibachate" [ref=e526] [cursor=pointer]:
+                - /url: /mansibachate/
+            - generic [ref=e529]:
+              - generic [ref=e530]:
+                - 'link "storytelling is just yapping 😵‍💫 #fyp #explorepage #reels #explore #MonM Clip" [ref=e532] [cursor=pointer]':
+                  - /url: /mansibachate/reel/DWjhK9oDYbU/
+                  - 'img "storytelling is just yapping 😵‍💫 #fyp #explorepage #reels #explore #MonM" [ref=e535]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link "Photo by Mansi ♡ on April 23, 2026. May be an image of net and text. Carousel" [ref=e538] [cursor=pointer]:
+                  - /url: /mansibachate/p/DXgUee_G-qr/
+                  - img "Photo by Mansi ♡ on April 23, 2026. May be an image of net and text." [ref=e541]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - 'link "effortless is expensive, do you agree? #reels #fyp #explore #explorepage #trending Clip" [ref=e544] [cursor=pointer]':
+                  - /url: /mansibachate/reel/DXLwv0qj3Ks/
+                  - 'img "effortless is expensive, do you agree? #reels #fyp #explore #explorepage #trending" [ref=e547]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e549]:
+                - 'link "les’ts go? #reels #fyp #explore #trending #explorepage Clip" [ref=e551] [cursor=pointer]':
+                  - /url: /mansibachate/reel/DW8FBEYDKaY/
+                  - 'img "les’ts go? #reels #fyp #explore #trending #explorepage" [ref=e554]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Indian fits >>> #viral #fyp #explore #trending #indianoutfit Clip" [ref=e557] [cursor=pointer]':
+                  - /url: /mansibachate/reel/DW5dUmJDZCm/
+                  - 'img "Indian fits >>> #viral #fyp #explore #trending #indianoutfit" [ref=e560]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link "why not? Clip" [ref=e563] [cursor=pointer]:
+                  - /url: /aditi_nagariya/reel/DW0coIDgaxt/
+                  - img "why not?" [ref=e566]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e568]:
+        - generic [ref=e569]:
+          - generic [ref=e571]:
+            - link "Meta" [ref=e573] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e574]: Meta
+            - link "About" [ref=e576] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e577]: About
+            - link "Blog" [ref=e579] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e580]: Blog
+            - link "Jobs" [ref=e582] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e583]: Jobs
+            - link "Help" [ref=e585] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e586]: Help
+            - link "API" [ref=e588] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e589]: API
+            - link "Privacy" [ref=e591] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e592]: Privacy
+            - link "Consumer Health Privacy" [ref=e594] [cursor=pointer]:
+              - /url: /legal/privacy/health_privacy_policy/
+              - generic [ref=e595]: Consumer Health Privacy
+            - link "Terms" [ref=e597] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e598]: Terms
+            - link "Locations" [ref=e600] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e601]: Locations
+            - link "Popular" [ref=e603] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e604]: Popular
+            - link "Instagram Lite" [ref=e606] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e607]: Instagram Lite
+            - link "Meta AI" [ref=e609] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e610]: Meta AI
+            - link "Threads" [ref=e612] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e613]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e615] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e616]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e618] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e619]: Meta Verified
+          - generic [ref=e620]:
+            - generic [ref=e621] [cursor=pointer]:
+              - generic [ref=e622]:
+                - generic [ref=e623]: English
+                - img "Down chevron icon" [ref=e626]
+              - combobox "Switch Display Language" [ref=e628]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e630]: © 2026 Instagram from Meta
+  - button "Messages Messages" [ref=e632] [cursor=pointer]:
+    - generic [ref=e634]:
+      - img "Messages" [ref=e636]
+      - generic [ref=e639]: Messages
