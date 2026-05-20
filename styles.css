@@ -597,6 +597,14 @@ img { max-width: 100%; display: block; }
     letter-spacing: -0.02em;
 }
 
+.collab-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+}
+
 /* Collab color themes */
 .collab-femina  { background: linear-gradient(160deg, #1a0606, #5a1010, #8b1a1a); }
 .collab-nyfw    { background: linear-gradient(160deg, #050505, #141414, #242424); }
