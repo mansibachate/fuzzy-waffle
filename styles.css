@@ -1096,7 +1096,7 @@ img { max-width: 100%; display: block; }
     font-size: clamp(4rem, 11vw, 11rem);
     line-height: 0.88;
     letter-spacing: 0.02em;
-    color: rgba(255,255,255,0.04);
+    color: var(--white);
     margin-bottom: 2rem;
     pointer-events: none;
     user-select: none;
