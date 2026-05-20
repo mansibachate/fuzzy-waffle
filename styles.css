@@ -590,6 +590,13 @@ img { max-width: 100%; display: block; }
     color: #fff; line-height: 1;
 }
 
+/* Reel cards: label at top so like icons at bottom stay visible */
+.collab-card-info--top {
+    top: 0; bottom: auto;
+    padding: 1rem 1.1rem 4rem;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.85) 0%, transparent 100%);
+}
+
 /* BullForce reel — fills the 9:16 card exactly */
 .collab-card--bullforce { background: #060606; }
 
@@ -598,9 +605,11 @@ img { max-width: 100%; display: block; }
     left: 0;
     top: -65px;
     width: 100%;
-    height: calc(100% + 210px);
+    height: calc(100% + 110px);
     border: none;
-    clip-path: inset(65px 0 145px 0);
+    clip-path: inset(65px 0 42px 0);
+    -webkit-mask-image: radial-gradient(circle 32px at 50% 52%, transparent 32px, black 33px);
+    mask-image: radial-gradient(circle 32px at 50% 52%, transparent 32px, black 33px);
 }
 
 /* Text art cards */
@@ -675,6 +684,8 @@ img { max-width: 100%; display: block; }
     display: block;
     padding-top: 22px;
     clip-path: inset(74px 0 130px 0);
+    -webkit-mask-image: radial-gradient(circle 25px at 50% 48%, transparent 25px, black 26px);
+    mask-image: radial-gradient(circle 25px at 50% 48%, transparent 25px, black 26px);
 }
 
 /* Div overlays to hide Instagram header (name/song) and footer (likes/view more) */
