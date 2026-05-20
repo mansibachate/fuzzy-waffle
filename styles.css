@@ -556,6 +556,8 @@ img { max-width: 100%; display: block; }
     border-radius: 16px;
     overflow: hidden;
     background: #111;
+    display: block;
+    text-decoration: none;
 }
 
 /* Photo fills card */
@@ -597,22 +599,31 @@ img { max-width: 100%; display: block; }
     background: linear-gradient(to bottom, rgba(0,0,0,0.85) 0%, transparent 100%);
 }
 
-/* BullForce reel — fills the 9:16 card exactly */
+/* Reel cards dark background */
 .collab-card--bullforce { background: #060606; }
-
-.collab-ig-iframe {
-    position: absolute;
-    left: 0;
-    top: -65px;
-    width: 100%;
-    height: calc(100% + 110px);
-    border: none;
-    clip-path: inset(65px 0 42px 0);
-}
-
-/* Text art cards */
-.collab-card--nyfw  { background: #060606; }
+.collab-card--nyfw      { background: #060606; }
 .collab-card--paramount { background: #060606; }
+
+/* Subtle play hint — fades in on hover */
+.collab-ig-hint {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    width: 36px;
+    height: 36px;
+    background: rgba(255,255,255,0.15);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.7rem;
+    color: rgba(255,255,255,0.8);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 10;
+    padding-left: 2px;
+}
+.collab-card:hover .collab-ig-hint { opacity: 1; }
 
 
 /* ===========================
