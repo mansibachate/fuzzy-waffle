@@ -604,7 +604,7 @@ img { max-width: 100%; display: block; }
 }
 
 /* Text art cards */
-.collab-card--nyfw  { background: #090909; }
+.collab-card--nyfw  { background: #060606; }
 .collab-card--arova { background: linear-gradient(145deg, #0f040c, #220a16); }
 
 .collab-card--nyfw::before {
