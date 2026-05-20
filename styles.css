@@ -545,23 +545,19 @@ img { max-width: 100%; display: block; }
    =========================== */
 .collab-editorial-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 370px 210px;
-    gap: 1.25rem;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 480px 240px;
+    gap: 1rem;
 }
-
-.collab-card--femina    { grid-column: 1;     grid-row: 1 / 3; }
-.collab-card--bullforce { grid-column: 2 / 4; grid-row: 1; }
-.collab-card--nyfw      { grid-column: 2;     grid-row: 2; }
-.collab-card--arova     { grid-column: 3;     grid-row: 2; }
 
 .collab-card {
     position: relative;
-    border-radius: 14px;
+    border-radius: 16px;
     overflow: hidden;
     background: #111;
 }
 
+/* Photo */
 .collab-card-img {
     width: 100%;
     height: 100%;
@@ -571,63 +567,65 @@ img { max-width: 100%; display: block; }
     max-width: none;
     transition: transform 0.6s ease;
 }
-
 .collab-card:hover .collab-card-img { transform: scale(1.04); }
 
+/* Label overlay at bottom of every card */
 .collab-card-info {
     position: absolute;
     bottom: 0; left: 0; right: 0;
-    padding: 2.5rem 1.25rem 1.1rem;
-    background: linear-gradient(to top, rgba(0,0,0,0.82) 0%, transparent 100%);
-    display: flex; flex-direction: column; gap: 0.15rem;
+    padding: 3.5rem 1.5rem 1.25rem;
+    background: linear-gradient(to top, rgba(0,0,0,0.88) 0%, transparent 100%);
+    display: flex; flex-direction: column; gap: 0.2rem;
     z-index: 10; pointer-events: none;
 }
-
 .collab-card-tag {
     font-size: 0.58rem; font-weight: 700;
     letter-spacing: 0.22em; text-transform: uppercase;
     color: rgba(255,255,255,0.5);
 }
-
 .collab-card-title {
     font-family: var(--font-display);
-    font-size: 1.5rem; letter-spacing: 0.04em;
-    color: #fff; line-height: 1.05;
+    font-size: 1.6rem; letter-spacing: 0.04em;
+    color: #fff; line-height: 1;
 }
 
-/* BullForce reel */
-.collab-card--bullforce { background: #080808; }
-
-.collab-reel-wrap {
-    position: absolute; inset: 0;
-    display: flex; align-items: center; justify-content: center;
-    overflow: hidden;
-}
+/* BullForce — portrait reel centered in card */
+.collab-card--bullforce { background: #060606; }
 
 .collab-ig-iframe {
-    flex-shrink: 0;
-    width: 210px;
-    height: 100%;
+    position: absolute;
+    left: 50%;
+    top: -55px;
+    width: 270px;
+    height: 645px;
+    transform: translateX(-50%);
     border: none;
     clip-path: inset(55px 0 110px 0);
 }
 
 /* Text art cards */
 .collab-card--nyfw  { background: #090909; }
-.collab-card--arova { background: linear-gradient(135deg, #130510, #28091a); }
+.collab-card--arova { background: linear-gradient(145deg, #0f040c, #220a16); }
+
+.collab-card--nyfw::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: linear-gradient(135deg, transparent 55%, rgba(207,38,38,0.1));
+    pointer-events: none;
+}
 
 .collab-card--nyfw::after {
     content: 'NYFW';
-    position: absolute; right: -0.05em; bottom: 0.5rem;
+    position: absolute; right: 0.5rem; bottom: 3.5rem;
     font-family: var(--font-display);
-    font-size: 6rem; letter-spacing: -0.02em;
-    color: rgba(255,255,255,0.04); line-height: 1;
+    font-size: 5.5rem; letter-spacing: -0.02em;
+    color: rgba(255,255,255,0.045); line-height: 1;
     pointer-events: none;
 }
 
 .collab-card--arova::after {
     content: 'AROVA';
-    position: absolute; right: -0.05em; bottom: 0.5rem;
+    position: absolute; right: 0.5rem; bottom: 3.5rem;
     font-family: var(--font-display);
     font-size: 4rem; letter-spacing: -0.01em;
     color: rgba(255,255,255,0.05); line-height: 1;
@@ -638,22 +636,20 @@ img { max-width: 100%; display: block; }
     position: absolute; inset: 0;
     display: flex; flex-direction: column;
     justify-content: center; align-items: flex-start;
-    padding: 1.25rem 1.5rem 3.5rem;
-    gap: 0.2rem;
+    padding: 1.75rem 1.75rem 5rem;
+    gap: 0.3rem;
 }
-
 .collab-art-pre {
     font-size: 0.6rem; font-weight: 700;
-    letter-spacing: 0.25em; text-transform: uppercase;
+    letter-spacing: 0.28em; text-transform: uppercase;
     color: var(--red);
 }
-
 .collab-art-big {
     font-family: var(--font-display);
-    font-size: clamp(1.6rem, 2.8vw, 2.8rem);
+    font-size: clamp(2.2rem, 3.5vw, 3.8rem);
     letter-spacing: 0.02em;
-    color: rgba(255,255,255,0.88);
-    line-height: 0.92;
+    color: rgba(255,255,255,0.9);
+    line-height: 0.88;
 }
 
 /* ===========================
@@ -1173,7 +1169,8 @@ img { max-width: 100%; display: block; }
     .why-item { border-right: none; }
     .analyst-grid { grid-template-columns: 1fr; }
     .analyst-item { border-right: none; }
-    .collab-editorial-grid { grid-template-rows: 300px 180px; }
+    .collab-editorial-grid { grid-template-rows: 360px 200px; }
+    .collab-ig-iframe { width: 203px; height: 525px; }
 }
 
 @media (max-width: 768px) {
@@ -1217,14 +1214,10 @@ img { max-width: 100%; display: block; }
     .analyst-item { padding: 2rem 1.5rem; }
 
     .collab-editorial-grid {
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: 260px 180px 180px;
+        grid-template-rows: 300px 180px;
         gap: 0.75rem;
     }
-    .collab-card--femina    { grid-column: 1 / 3; grid-row: 1; }
-    .collab-card--bullforce { grid-column: 1;     grid-row: 2; }
-    .collab-card--nyfw      { grid-column: 2;     grid-row: 2; }
-    .collab-card--arova     { grid-column: 1 / 3; grid-row: 3; }
+    .collab-ig-iframe { width: 169px; height: 465px; }
     .logo-strip-companies { gap: 1rem; }
     .logo-strip-companies > span { font-size: 1.3rem; }
     .tools-grid { grid-template-columns: repeat(3, 1fr); }
@@ -1239,10 +1232,7 @@ img { max-width: 100%; display: block; }
     .footer-watermark { font-size: 3.5rem; }
     .collab-editorial-grid {
         grid-template-columns: 1fr;
-        grid-template-rows: 260px 260px 160px 160px;
+        grid-template-rows: 360px 360px 200px 200px;
     }
-    .collab-card--femina, .collab-card--bullforce,
-    .collab-card--nyfw, .collab-card--arova {
-        grid-column: 1; grid-row: auto;
-    }
+    .collab-ig-iframe { width: 202px; height: 525px; }
 }
